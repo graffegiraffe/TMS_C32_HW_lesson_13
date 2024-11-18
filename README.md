@@ -1,5 +1,5 @@
 # Here, the following tasks are implemented:
-## Task1:
+## Task 1:
 Create a class that will have a static method.
 This method accepts three input parameters: Login, Password, confirmation, Password. All fields have the String data type.
 The login length must be less than 20 characters and must not leave spaces.
